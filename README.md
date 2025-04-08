@@ -32,7 +32,7 @@ proyecto/
 - **`forecasting.py`**: Implementación del forecasting.
 - **`main.py`**: Script principal para ejecutar el proyecto.
 - **`requirements.txt`**: Lista de bibliotecas necesarias.
-- **`README.md`**: Este archivo.
+- **`README.md`**: Archivo de información.
 
 ---
 
